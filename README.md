@@ -1,0 +1,1 @@
+The output folder contain  the animated movie made from pressure anomalies values captured by the CP4 climate model in the current climate from November 2006 to March 2007.
